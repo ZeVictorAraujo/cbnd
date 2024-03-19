@@ -256,8 +256,7 @@ body::-webkit-scrollbar-thumb {
   }
 
   footer{
-    text-align: center;
-    padding: 20px;
+    display: none;
   }
 
 }
