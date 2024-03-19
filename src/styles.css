@@ -248,15 +248,32 @@ body::-webkit-scrollbar-thumb {
   .slide {
     display: none;
   }
-}
-
-@media screen and (max-width: 768px) {
-  .slide {
-    display: none;
-  }
 
   footer{
     display: none;
   }
 
+}
+
+@media screen and (max-width: 768px) {
+  .secaoservicos {
+    text-align: center; 
+  }
+
+  .texto-servicos {
+    margin: 0; 
+  }
+
+  .imagem-servicos img {
+    max-width: 100%; 
+    height: auto; 
+    margin-top: 20px; 
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .logo {
+    margin: 0 auto; 
+    text-align: center; 
+  }
 }
