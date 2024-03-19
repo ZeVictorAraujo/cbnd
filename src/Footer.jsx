@@ -5,7 +5,7 @@ import './styles.css';
 function Footer() {
   return (
     <footer>
-      <p>Entre em contato com Neuza Dantas (75) 9 1234 - 5678</p>
+      <strong><p>Entre em contato com Neuza Dantas (75) 9 9960-4987</p></strong>
     </footer>
   );
 }
